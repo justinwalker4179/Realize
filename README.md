@@ -1,14 +1,14 @@
-#Realize
+# Realize
 Realize is a python based program that allows the user to search for classes throughout a program and find out info about them.
 
-#Instructions
+## Instructions
 Run main.py. A window will appear. Open your example.py in the example folder. The search bar may be used to find out info on any class throughtout the program and any files it imports from except base python
 libraries.
 
-#Caveats
+## Caveats
 May only be used for python files
 
-#License
+## License
 Copyright 2019 justinwalker4179
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
